@@ -1,1 +1,2 @@
 Создал новый файл test_reset.txt
+Изменил файл test_reset.txt
